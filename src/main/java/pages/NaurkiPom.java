@@ -85,7 +85,7 @@ public class NaurkiPom
 //        uploadBtn.click();
         
         // Give your file path here
-        String filePath = "C:\\Users\\hd888\\Desktop\\Himanshu's Projects\\Profile_02\\src\\test\\resources\\Resume\\HJD_CV.pdf";
+        String filePath = "C:\\Users\\hd888\\Desktop\\Himanshu's Projects\\Profile_03\\src\\test\\resources\\Resume\\HJD_CV.pdf";
         
         // Copy file path to clipboard
         StringSelection sel = new StringSelection(filePath);
