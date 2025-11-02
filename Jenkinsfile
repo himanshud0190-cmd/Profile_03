@@ -15,7 +15,7 @@ pipeline
         {
             steps
             {
-                bat 'mvn -Dmaven.test.failure.ignore=true clean test -DCliBrowser=Edge'
+                bat 'mvn test'
             }
         }
 
